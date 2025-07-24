@@ -21,19 +21,7 @@ This project focuses on evaluating marketing campaign performance using modern d
 
 ---
 
-## 📁 Repository Structure
-
-KPI_Analysis_Random_Forest_SHAP/
-│
-├── 📂 data/ # Raw & cleaned CSV/Excel files
-├── 📂 notebooks/ # Python notebooks for analysis and modeling
-├── 📂 output/ # Exported score files and plots
-├── 📂 report/ # Final written report (PDF, DOCX etc.)
-├── 📂 dashboard/ # Tableau screenshots and dashboard thumbnails
-└── README.md # Project overview and documentation
-
----
-
+<pre> ## 📁 Repository Structure KPI_Analysis_Random_Forest_SHAP/ │ ├── 📂 data/ # Raw & cleaned CSV/Excel files ├── 📂 notebooks/ # Python notebooks for analysis and modeling ├── 📂 output/ # Exported score files and plots ├── 📂 report/ # Final written report (PDF, DOCX etc.) ├── 📂 dashboard/ # Tableau screenshots and dashboard thumbnails └── README.md # Project overview and documentation </pre>
 
 ---
 
