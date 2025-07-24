@@ -27,9 +27,9 @@ KPI_Analysis_Random_Forest_SHAP/
 │  
 ├── 📂 data/             # Raw & cleaned CSV/Excel files  
 ├── 📂 notebooks/        # Python notebooks for analysis and modeling  
-├── 📂 output/           # Exported score files and plots  
+├── 📂 output/           # Exported score files  
 ├── 📂 report/           # Final written report (PDF, DOCX etc.)  
-├── 📂 dashboard/        # Tableau screenshots and dashboard thumbnails  
+├── 📂 dashboard/        # Tableau dashboard screenshots  
 └── README.md            # Project overview and documentation  
 
 ---
