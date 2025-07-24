@@ -46,8 +46,8 @@ KPI_Analysis_Random_Forest_SHAP/
 
 <table>
   <tr>
-    <td><img src="dashboard/dashboard_Preview1.png" width="400"></td>
-    <td><img src="dashboard/dashboard_Preview2.png" width="400"></td>
+    <td><img src="dashboard/Dashboard_Preview_1.png" width="400"></td>
+    <td><img src="dashboard/Dashboard_Preview_2.png" width="400"></td>
   </tr>
 </table>
 
