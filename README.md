@@ -36,7 +36,7 @@ KPI_Analysis_Random_Forest_SHAP/
 
 ## 📓 Notebook
 
-👉 **[View the final notebook](notebook/Data-Cleaning_Kaggle_Course.ipynb)** with all exercises and explanations.
+👉 **[View the final notebook](notebook/Final_Report.ipynb)** with all exercises and explanations.
 
 ## 📊 Executive Dashboard (Tableau Public)
 
