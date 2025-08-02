@@ -38,7 +38,7 @@ KPI_Analysis_Random_Forest_SHAP/
 👉 **[View the final notebook](notebooks/Final_Report.ipynb)** with all exercises and explanations.
 
 ## 📄 Documentation  
-👉 **[View the documentation](docs/Marketing_KPI_Analysis_Project_Documentation.pdf)** explaining data cleaning, KPI scoring, and SHAP interpretation.
+👉 **[View the documentation](report/Marketing KPI Analysis – Project Documentation.pdf)** explaining data cleaning, KPI scoring, and SHAP interpretation.
 
 ## 📊 Executive Dashboard (Tableau Public)
 👉 **[Campaign Conversion Funnel – Executive Dashboard]**(https://public.tableau.com/app/profile/sefer.adiyaman/viz/Campaign_Conversion_Funnel_Executive_Dashboard/DashboardFUNNEL)
