@@ -34,6 +34,10 @@ KPI_Analysis_Random_Forest_SHAP/
 
 ---
 
+## 📓 Notebook
+
+👉 **[View the final notebook](notebooks/Final_Report.ipynb)** with all exercises and explanations.
+
 ## 📊 Executive Dashboard (Tableau Public)
 
 🔗 **Live link:**  
