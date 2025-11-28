@@ -1,10 +1,10 @@
-# 🎯 Marketing KPI Analysis and Model Interpretation with SHAP
+# Marketing KPI Analysis and Model Interpretation with SHAP
 
 A data analytics project for evaluating campaign performance using Python, SHAP and Tableau.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 **Author:** Sefer Adiyaman  
 **Project period:** July 8 – July 22, 2025  
@@ -21,7 +21,7 @@ This project focuses on evaluating marketing campaign performance using modern d
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 KPI_Analysis_Random_Forest_SHAP/  
 │  
@@ -34,16 +34,16 @@ KPI_Analysis_Random_Forest_SHAP/
 
 ---
 
-## 📓 Notebook
-👉 **[View the final notebook](notebooks/Final_Report.ipynb)** with all exercises and explanations.
+##  Notebook
+- **[View the final notebook](notebooks/Final_Report.ipynb)** with all exercises and explanations.
 
-## 📄 Documentation  
-👉 **[View the documentation](report/Marketing%20KPI%20Analysis%20%E2%80%93%20Project%20Documentation.pdf)** explaining data cleaning, KPI scoring, and SHAP interpretation.
+## Documentation  
+- **[View the documentation](report/Marketing%20KPI%20Analysis%20%E2%80%93%20Project%20Documentation.pdf)** explaining data cleaning, KPI scoring, and SHAP interpretation.
 
-## 📊 Executive Dashboard (Tableau Public)
-👉 **[Campaign Conversion Funnel – Executive Dashboard]**(https://public.tableau.com/app/profile/sefer.adiyaman/viz/Campaign_Conversion_Funnel_Executive_Dashboard/DashboardFUNNEL)
+## Executive Dashboard (Tableau Public)
+- **[Campaign Conversion Funnel – Executive Dashboard]**(https://public.tableau.com/app/profile/sefer.adiyaman/viz/Campaign_Conversion_Funnel_Executive_Dashboard/DashboardFUNNEL)
 
-### 🔍 Dashboard Preview
+### Dashboard Preview
 
 <table>
   <tr>
@@ -54,7 +54,7 @@ KPI_Analysis_Random_Forest_SHAP/
 
 ---
 
-## 📎 License
+## License
 
 This repository is published for educational and portfolio purposes only.  
 All brand names and campaigns are anonymized and synthetic.
